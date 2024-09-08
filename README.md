@@ -21,7 +21,6 @@ This project demonstrates a Kafka-based IoT pipeline for streaming, storing, and
   - [Project Structure](#project-structure)
   - [Contributing](#contributing)
   - [License](#license)
-    - [Additional Notes:](#additional-notes)
 
 ## Overview
 
@@ -156,9 +155,3 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 ## License
 
 Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-### Additional Notes:
-- Replace the GitHub URL, project name, and your GitHub username as necessary.
-- This README now includes details about the **alert consumer** and how to monitor alerts.
